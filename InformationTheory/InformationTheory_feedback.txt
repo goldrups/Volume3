@@ -1,0 +1,64 @@
+10/01/22 20:01
+
+Problem 1 (7 points):
+Score += 7
+
+Problem 2 (5 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (8 points):
+Score += 8
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/04/22 15:17
+
+Problem 1 (7 points):
+Score += 7
+
+Problem 2 (5 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (8 points):
+Score += 8
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

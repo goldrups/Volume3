@@ -1,0 +1,25 @@
+09/19/22 14:08
+
+Problem 1 (10 points):
+Avoid using multiple histograms in a single subplot
+Score += 9
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Please comment longer code sections such as problem 4, or at least add whitespace between sections of code
+Score += 4
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
